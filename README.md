@@ -3,7 +3,7 @@
   A passionate frontend developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
 </h3>
 <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=prem-Code-Breaker&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=prem-prakash-lab&style=flat-square&color=blue" alt=""/>
 </div>
 <br/>
 <img src="./Assets/logo.png" alt="Front End Developer Banner"/>
